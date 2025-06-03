@@ -31,3 +31,5 @@ pseudo class:is used to define a special state of an element
        -git status:used to check status of git inside folder
        -git init:used to create/initialize git repository in a folder 
        -git add . :used to track all untracked files to git
+       - git commit -m "message" :used to store/save tracked files to git.
+       
