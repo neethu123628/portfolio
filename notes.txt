@@ -1,0 +1,33 @@
+pseudo class:is used to define a special state of an element
+       syntax:selector: pseudo-class{
+        property:value;
+       }
+-grid:used to display element in row and column,where we can fix the column width
+      -grid container:the parent(container)<div> element to display a grid
+            -gap:used to set space between row and column
+            -grid-template-column/row:used to set the width of column/row
+            
+      -grid items:the items inside the container <div>
+      -Linear Gradient:it is used to set combination of colors as background
+                 -syntax:background-image:Linear-gradient(direction,color1,color2,....
+                 )
+      -Animation in css:Animation property will be ,Animation:animation-name duration
+            -Animation libraries:
+                -animate-style:https://animate.style/
+                -aos Animation:https://michalsnik.github.io/aos/
+                -locomotive scroll
+      -web hosting:web server
+                -Netlify
+                -Github pages
+                -vercel
+
+
+------------------------------------------------------------------------------------------------------
+                     Git & Github
+------------------------------------------------------------------------------------------------------
+
+ 1.GIT:used to control version of a code 
+ 2.GIT COMMAND
+       -git status:used to check status of git inside folder
+       -git init:used to create/initialize git repository in a folder 
+       -git add . :used to track all untracked files to git
